@@ -1,0 +1,16 @@
+{
+  "name": "reimbursement-system",
+  "version": "1.0.0",
+  "description": "报销信息收集系统 - 支持公网访问",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["reimbursement", "expense", "form"],
+  "author": "",
+  "license": "MIT"
+}
